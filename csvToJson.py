@@ -1,7 +1,6 @@
 import csv, json
 import requests
  
-
 urlApi = 'http://192.168.57.123:8080/'
 data = {}
 textoJson = ""
